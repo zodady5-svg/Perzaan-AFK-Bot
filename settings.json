@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "botvspro.aternos.me",
+    "port": 18055,
     "version": "1.21.1"
   },
   "position": {
